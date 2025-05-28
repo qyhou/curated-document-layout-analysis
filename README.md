@@ -4,7 +4,7 @@ This repository provides a curated list of resources in the research domain of D
 Methods based on heuristic rules are not included.
 
 ## Keywords
-"Layout Analysis" OR "Page Object Detection" OR "Document Structure Analysis" OR "Document Structure Extraction" OR "Document Hierarchy Extraction"
+"Document Layout Analysis" OR "Document Layout Detection" OR "Page Object Detection" OR "Document Structure Analysis" OR "Document Structure Extraction" OR "Document Reading Order" OR "Document Hierarchy"
 
 ## Table of Contents
 1. Survey / Competition
@@ -105,6 +105,7 @@ Methods based on heuristic rules are not included.
 
 ### 2.2 Document Structure Analysis
 - `SCAN` [SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2505.14381), (NEC), 2025-05, arXiv
+- `XY-Cut++` [XY-Cut++: Advanced Layout Ordering via Hierarchical Mask Mechanism on a Novel Benchmark](https://arxiv.org/abs/2504.10258), (TJU), 2025-04, arXiv
 - `UniHDSA` [UniHDSA: A Unified Relation Prediction Approach for Hierarchical Document Structure Analysis](https://arxiv.org/abs/2503.15893), (USTC, Microsoft), 2025-03, Pattern-Recognition.2025
 - `DRGG` [Graph-based Document Structure Analysis](https://arxiv.org/abs/2502.02501), (KIT), 2025-02, ICLR-2025
 - `DLAFormer` [DLAFormer: An End-to-End Transformer For Document Layout Analysis](https://arxiv.org/abs/2405.11757), (USTC, Microsoft), 2024-05, ICDAR-2024
@@ -129,9 +130,11 @@ Methods based on heuristic rules are not included.
 ## 3. Data
 
 ### 3.1 Dataset
+- `DocBench-100` [XY-Cut++: Advanced Layout Ordering via Hierarchical Mask Mechanism on a Novel Benchmark](https://arxiv.org/abs/2504.10258), (TJU), 2025-04, arXiv
 - `AnnoPage` [AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization](https://arxiv.org/abs/2503.22526), (VUTBR, MZK, NKP, CAS), 2025-03, arXiv
 - `SFDLA` [SFDLA: Source-Free Document Layout Analysis](https://arxiv.org/abs/2503.18742), (KIT, ETH Zurich), 2025-03, arXiv
 - `GraphDoc` [Graph-based Document Structure Analysis](https://arxiv.org/abs/2502.02501), (KIT), 2025-02, ICLR-2025
+- `OmniDocBench` [OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations](https://arxiv.org/abs/2412.07626), (Shanghai AI Lab, Abaka AI, 2077AI), 2024-12, CVPR-2025
 - `LADaS 2.0` [Diachronic Document Dataset for Semantic Layout Analysis](https://arxiv.org/abs/2411.10068), (Inria, PSL, IHEID, UNIGE), 2024-11, arXiv
 - `READoc` [READoc: A Unified Benchmark for Realistic Document Structured Extraction](https://arxiv.org/abs/2409.05137), (CAS, UCAS), 2024-09, arXiv
 - `SciPostLayout` [SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters](https://arxiv.org/abs/2407.19787), (OMRON SINIC X, Waseda), 2024-07, BMVC-2024
