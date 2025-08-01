@@ -31,6 +31,7 @@ Methods based on heuristic rules are not included.
 ## 2. Methodology
 
 ### 2.1 Page Object Detection
+- `DREAM` [DREAM: Document Reconstruction via End-to-end Autoregressive Model](https://arxiv.org/abs/2507.05805), (Tencent), 2025-07, ACM-MM-2025
 - `DocSAM` [DocSAM: Unified Document Image Segmentation via Query Decomposition and Heterogeneous Mixed Learning](https://arxiv.org/abs/2504.04085), (CAS, UCAS), 2025-04, CVPR-2025
 - `DLAdapter` [SFDLA: Source-Free Document Layout Analysis](https://arxiv.org/abs/2503.18742), (KIT, ETH Zurich), 2025-03, arXiv
 - `PP-DocLayout` [PP-DocLayout: A Unified Document Layout Detection Model to Accelerate Large-Scale Data Construction](https://arxiv.org/abs/2503.17213), (Baidu), 2025-03, arXiv
@@ -104,6 +105,7 @@ Methods based on heuristic rules are not included.
 - `MFCN` [Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Network](https://arxiv.org/abs/1706.02337), (PSU, Adobe), 2017-06, CVPR-2017
 
 ### 2.2 Document Structure Analysis
+- `DREAM` [DREAM: Document Reconstruction via End-to-end Autoregressive Model](https://arxiv.org/abs/2507.05805), (Tencent), 2025-07, ACM-MM-2025
 - `SCAN` [SCAN: Semantic Document Layout Analysis for Textual and Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2505.14381), (NEC), 2025-05, arXiv
 - `XY-Cut++` [XY-Cut++: Advanced Layout Ordering via Hierarchical Mask Mechanism on a Novel Benchmark](https://arxiv.org/abs/2504.10258), (TJU), 2025-04, arXiv
 - `UniHDSA` [UniHDSA: A Unified Relation Prediction Approach for Hierarchical Document Structure Analysis](https://arxiv.org/abs/2503.15893), (USTC, Microsoft), 2025-03, Pattern-Recognition.2025
@@ -130,6 +132,7 @@ Methods based on heuristic rules are not included.
 ## 3. Data
 
 ### 3.1 Dataset
+- `DocRec1K` [DREAM: Document Reconstruction via End-to-end Autoregressive Model](https://arxiv.org/abs/2507.05805), (Tencent), 2025-07, ACM-MM-2025
 - `DocBench-100` [XY-Cut++: Advanced Layout Ordering via Hierarchical Mask Mechanism on a Novel Benchmark](https://arxiv.org/abs/2504.10258), (TJU), 2025-04, arXiv
 - `AnnoPage` [AnnoPage Dataset: Dataset of Non-Textual Elements in Documents with Fine-Grained Categorization](https://arxiv.org/abs/2503.22526), (VUTBR, MZK, NKP, CAS), 2025-03, arXiv
 - `SFDLA` [SFDLA: Source-Free Document Layout Analysis](https://arxiv.org/abs/2503.18742), (KIT, ETH Zurich), 2025-03, arXiv
@@ -163,6 +166,7 @@ Methods based on heuristic rules are not included.
 - `DSSE-200` [Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Network](https://arxiv.org/abs/1706.02337), (PSU, Adobe), 2017-06, CVPR-2017
 
 ### 3.2 Data Synthesis / Data Generation / Data Augmentation
+- `LED Benchmark` [LED Benchmark: Diagnosing Structural Layout Errors for Document Layout Analysis](https://arxiv.org/abs/2507.23295), (CNU), 2025-07, arXiv
 - `DocSynth-300K` [DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception](https://arxiv.org/abs/2410.12628), (Shanghai AI Lab), 2024-10, arXiv
 - [RoDLA: Benchmarking the Robustness of Document Layout Analysis Models](https://arxiv.org/abs/2403.14442), (KIT, Oxford), 2024-03, CVPR-2024
 - `LACE` [Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints](https://arxiv.org/abs/2402.04754), (Buffalo, Adobe, MBZUAI), 2024-02, ICLR-2024
