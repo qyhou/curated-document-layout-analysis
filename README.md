@@ -110,6 +110,7 @@ Methods based on heuristic rules are not included.
 - `XY-Cut++` [XY-Cut++: Advanced Layout Ordering via Hierarchical Mask Mechanism on a Novel Benchmark](https://arxiv.org/abs/2504.10258), (TJU), 2025-04, arXiv
 - `UniHDSA` [UniHDSA: A Unified Relation Prediction Approach for Hierarchical Document Structure Analysis](https://arxiv.org/abs/2503.15893), (USTC, Microsoft), 2025-03, Pattern-Recognition.2025
 - `DRGG` [Graph-based Document Structure Analysis](https://arxiv.org/abs/2502.02501), (KIT), 2025-02, ICLR-2025
+- [Reading order detection in visually-rich documents with multi-modal layout-aware relation prediction](https://www.sciencedirect.com/science/article/abs/pii/S0031320324000657), (ZJU, Hikvision), 2024-06, Pattern-Recognition.2024
 - `DLAFormer` [DLAFormer: An End-to-End Transformer For Document Layout Analysis](https://arxiv.org/abs/2405.11757), (USTC, Microsoft), 2024-05, ICDAR-2024
 - [Leveraging Collection-Wide Similarities for Unsupervised Document Structure Extraction](https://arxiv.org/abs/2402.13906), (Allen AI, HUJI, BIU), 2024-02, ACL-2024
 - `Detect-Order-Construct` [Detect-Order-Construct: A Tree Construction based Approach for Hierarchical Document Structure Analysis](https://arxiv.org/abs/2401.11874), (USTC, Microsoft), 2024-01, Pattern-Recognition.2024
